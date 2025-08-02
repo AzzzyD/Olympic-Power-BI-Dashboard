@@ -20,7 +20,7 @@ Whether you’re a data enthusiast, sports fan, or someone who loves visual expl
 #### 1️⃣ **Home Page** 
 The gateway to the Olympic spirit! This page sets the tone with a vibrant and visually appealing theme. It offers seamless navigation across different pages, ensuring a smooth user experience.
 
-![Home Page ](https://github.com/user-attachments/assets/48cd8801-8293-41cd-a2ba-41d8135c1c00)
+![Home Page ](https://github.com/user-attachments/assets/a2cb3fda-6dcd-4260-92a7-e37f2ada5332)
 
 ---
 
